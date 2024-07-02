@@ -1,0 +1,9 @@
+{
+  "name": "MusicBot",
+  "version": "1.0",
+  "description": "A Discord music bot",
+  "main": "MusicBot.jar",
+  "scripts": {
+    "start": "java -jar MusicBot.jar"
+  }
+}
